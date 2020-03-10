@@ -1,6 +1,8 @@
 # UnrealTinyXml Example Project
 This is a UE4 plugin "UnrealTinyXml" example project(for ue4.17+).
 
+Currently support 4.18~4.24
+
 Please download this project. and put "UnrealTinyXml" plugin into "UnrealTinyXmlExample/Plugins" or download from ue4 marketplace.
 
 This project contain only one map and a actor called "XmlTestActor".

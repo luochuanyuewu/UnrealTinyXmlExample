@@ -8,7 +8,7 @@ public class UnrealTinyXmlExampleTarget : TargetRules
 	public UnrealTinyXmlExampleTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Game;
-
+        DefaultBuildSettings = BuildSettingsVersion.V2;
 		ExtraModuleNames.AddRange( new string[] { "UnrealTinyXmlExample" } );
 	}
 }
