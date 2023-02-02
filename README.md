@@ -1,7 +1,7 @@
 # UnrealTinyXml Example Project
-This is a UE4 plugin "UnrealTinyXml" example project(for ue4.17+).
+This is a UE4 plugin "UnrealTinyXml" example project(for ue4.18+).
 
-Currently support 4.18~4.24
+Currently support 4.18~5.1
 
 Please download this project. and put "UnrealTinyXml" plugin into "UnrealTinyXmlExample/Plugins" or download from ue4 marketplace.
 
