@@ -1,7 +1,8 @@
 # UnrealTinyXml Example Project
+
 This is a UE4 plugin "UnrealTinyXml" example project(for ue4.18+).
 
-Currently support 4.18~5.1
+Currently support 4.18~5.2
 
 Please download this project. and put "UnrealTinyXml" plugin into "UnrealTinyXmlExample/Plugins" or download from ue4 marketplace.
 
@@ -12,4 +13,5 @@ This actor contain many different function to show different functionality of th
 For c++ usage. put "UnrealTinyXml" plugin into "$PROJECTROOT/Plugins", then check XmlCppExampe.h/cpp.(remember add "UnrealTinyXml" module name to project dependency )
 
 # packaging
-After packaing your project, make sure you copy you xml files into your packaged build directory.  for example: when you packing this example project(win64 build), you need copy $PROJECTROOT/ExampleXml into WindowsNoEditor/UnrealTinyXmlExample/ExampleXml
+
+After packaing your project, make sure you copy you xml files into your packaged build directory. for example: when you packing this example project(win64 build), you need copy $PROJECTROOT/ExampleXml into WindowsNoEditor/UnrealTinyXmlExample/ExampleXml
